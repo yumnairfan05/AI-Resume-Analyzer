@@ -1,0 +1,4 @@
+We are looking for a Junior Machine Learning Engineer to join our team.
+You will build NLP models using Python, PyTorch and Hugging Face Transformers.
+Experience with SQL, Docker and Git is required. Knowledge of AWS and REST APIs is a plus.
+You will work in an Agile team and communicate results to stakeholders.
